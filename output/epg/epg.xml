@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250507085114 +0800">
+<tv date="20250507102731 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -27846,6 +27846,12 @@
 	<programme channel="黑莓动画" start="20250507125700 +0800" stop="20250507143000 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250507143000 +0800" stop="20250507155800 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250507155800 +0800" stop="20250507172100 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -27872,6 +27878,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250507134900 +0800" stop="20250507152000 +0800">
 		<title lang="zh">有匪b7破雪斩</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250507152000 +0800" stop="20250507170900 +0800">
+		<title lang="zh">钢铁，是这样炼成的</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
